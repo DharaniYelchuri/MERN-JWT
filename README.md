@@ -1,1 +1,1 @@
-🔐 MERN-JWT Authentication App
+***🔐 MERN-JWT Authentication App***
